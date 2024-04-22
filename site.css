@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+namespace WebApp.wwwroot.css.scss.core public class _common *, namespace WebApp.wwwroot.css.scss.core public class _common *::before, namespace WebApp.wwwroot.css.scss.core public class _common *::after {
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  box-sizing: border-box;
+  margin: 0;
+}
+namespace WebApp.wwwroot.css.scss.core public class _common body {
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  font-family: "Manrope", sans-serif;
+  line-height: 1.5;
+}
+
+/*# sourceMappingURL=site.css.map */
